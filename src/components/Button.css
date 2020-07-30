@@ -1,0 +1,38 @@
+.button{
+
+    flex: 1;
+    color: black;
+    align-items: center;
+    text-align: center;
+    border: coral;
+    display: flex;
+    justify-content: center;
+    outline: 1px solid darkgrey;
+    height: 50px;
+    background-color: lightblue;
+}
+
+.input{
+    display: flex;
+    outline: darkgray;
+    text-align: center;
+    background-color: black;
+    height: 50px;
+    color: white;
+    justify-content: flex-end;
+    padding: 30px;
+    font-size: 25px;
+}
+
+.operator{
+    flex: 1;
+    color: black;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    outline: 1px solid darkgrey;
+    height: 50px;
+    background-color: grey;
+    font-weight: bolder;
+}
